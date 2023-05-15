@@ -1,0 +1,15 @@
+C:\Users\pinok\source\repos\Katko\Katko\bin\Debug\net7.0\Katko.exe
+C:\Users\pinok\source\repos\Katko\Katko\bin\Debug\net7.0\Katko.deps.json
+C:\Users\pinok\source\repos\Katko\Katko\bin\Debug\net7.0\Katko.runtimeconfig.json
+C:\Users\pinok\source\repos\Katko\Katko\bin\Debug\net7.0\Katko.dll
+C:\Users\pinok\source\repos\Katko\Katko\bin\Debug\net7.0\Katko.pdb
+C:\Users\pinok\source\repos\Katko\Katko\obj\Debug\net7.0\Katko.csproj.AssemblyReference.cache
+C:\Users\pinok\source\repos\Katko\Katko\obj\Debug\net7.0\Katko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinok\source\repos\Katko\Katko\obj\Debug\net7.0\Katko.AssemblyInfoInputs.cache
+C:\Users\pinok\source\repos\Katko\Katko\obj\Debug\net7.0\Katko.AssemblyInfo.cs
+C:\Users\pinok\source\repos\Katko\Katko\obj\Debug\net7.0\Katko.csproj.CoreCompileInputs.cache
+C:\Users\pinok\source\repos\Katko\Katko\obj\Debug\net7.0\Katko.dll
+C:\Users\pinok\source\repos\Katko\Katko\obj\Debug\net7.0\refint\Katko.dll
+C:\Users\pinok\source\repos\Katko\Katko\obj\Debug\net7.0\Katko.pdb
+C:\Users\pinok\source\repos\Katko\Katko\obj\Debug\net7.0\Katko.genruntimeconfig.cache
+C:\Users\pinok\source\repos\Katko\Katko\obj\Debug\net7.0\ref\Katko.dll
